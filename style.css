@@ -1,0 +1,31 @@
+* {
+    background-color: aquamarine;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+.description {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+}
+
+ol li{
+    background-color: lightgray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkblue;
+    font-size: 22px;
+}
+
+.steps {
+    background-color: black;
+    color: white;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
